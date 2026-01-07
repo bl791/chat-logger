@@ -1,4 +1,4 @@
-Source code for the Chat Logger mod, which logs all *public* chat messages to JSON files. No private chat messages, commands, etc. are logged.
+Source code for the Chat Logger mod, which logs all *public* chat messages to JSON files.
 
 This repository only includes source files, without the Fabric wrapper. You cannot compile the mod directly from here, you must download the Fabric mod template and copy the files over yourself, then compile the mod. No support will be provided for compiling the mod as this repository is intended for transparency only.
 
