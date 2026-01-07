@@ -7,3 +7,5 @@ The mod was only tested with `1.21.10` and `1.21.11`. It may not work on older v
 You can download the mod on Modrinth. https://modrinth.com/mod/chat-logger
 
 Send me a message on Discord `bl4747` for any issues.
+
+The source code and compiled JAR files are licensed under the GNU Lesser General Public License, version 2.1 (only).
